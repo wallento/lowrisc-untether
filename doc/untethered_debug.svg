@@ -765,8 +765,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="209.9267"
-     inkscape:cy="63.88122"
+     inkscape:cx="411.98068"
+     inkscape:cy="100.44655"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -805,7 +805,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1133,60 +1133,60 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="100"
+       x="70"
        y="287.36221"
        id="text4140-9-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="100"
+         x="70"
          y="287.36221"
          id="tspan4144-6-8"
          style="font-size:12.5px;text-align:start;text-anchor:start">SCM: System Control Module</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="300"
+       x="270"
        y="287.36221"
        id="text4140-9-8-4-9-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="300"
+         x="270"
          y="287.36221"
          id="tspan4144-6-5-1-2-2"
          style="font-size:12.5px;text-align:start;text-anchor:start">CDM: Core Debug Module</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="300"
+       x="270"
        y="307.36221"
        id="text4140-9-8-4-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="300"
+         x="270"
          y="307.36221"
          id="tspan4144-6-5-1-84"
          style="font-size:12.5px;text-align:start;text-anchor:start">CTM: Core Trace Module</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="300"
+       x="270"
        y="327.36221"
        id="text4140-9-8-4-0-6-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="300"
+         x="270"
          y="327.36221"
          id="tspan4144-6-5-1-8-4-3"
          style="font-size:12.5px;text-align:start;text-anchor:start">STM: Software Trace Module</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="100"
+       x="70"
        y="307.36221"
        id="text4140-9-8-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="100"
+         x="70"
          y="307.36221"
          id="tspan4144-6-5-5"
          style="font-size:12.5px;text-align:start;text-anchor:start">MAM: Memory Access Module</tspan></text>
@@ -1447,5 +1447,37 @@
        id="path4619-6-5-7-8-8-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235,167.36222 0,10 30,0"
+       id="path4627"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235,172.36222 28,0"
+       id="path4629"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 362,172.36222 7,0"
+       id="path4631"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="260"
+       y="187.36221"
+       id="text4633"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4635"
+         x="260"
+         y="187.36221"
+         style="font-size:10px;text-align:end;text-anchor:end">reset,</tspan><tspan
+         sodipodi:role="line"
+         x="260"
+         y="199.86221"
+         style="font-size:10px;text-align:end;text-anchor:end"
+         id="tspan4639">clock etc.</tspan></text>
   </g>
 </svg>
